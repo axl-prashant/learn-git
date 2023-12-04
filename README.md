@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello Git
 
 Git stash Try
@@ -6,3 +7,6 @@ iiiiiiiiii
 try revert
 
 Hello Agy
+=======
+Hello susan
+>>>>>>> prshnt
